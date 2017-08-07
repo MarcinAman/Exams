@@ -87,7 +87,7 @@ class smallestGroup{
 	}
 }
 
-public class Main {
+public class Bikes {
 	public static void main(String[] args) {
 		smallestGroup A = new smallestGroup();
 		A.n=7;
